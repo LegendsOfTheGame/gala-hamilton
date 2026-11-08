@@ -4,6 +4,27 @@
     "date": "2026-11-07",
     "time": "10 am to 2 pm",
     "location": "Faith United Church, Springer Avenue off Main Street",
-    "details": "Come support the 23rd Hamilton Girl Guides. They will be selling Mint and Classic Girl Guide cookies."
+    "details": "Come support the 23rd Hamilton Girl Guides. They will be selling Mint and Classic Girl Guide cookies.",
+    "nearby": true
+  },
+  {
+    "title": "Krampus Village",
+    "date": "2026-12-05",
+    "time": "4 pm to 8 pm",
+    "location": "Parking lot at Barton Street East and Emerald Street",
+    "details": "Barton Village's first holiday market, in the style of European winter markets and the Krampus folk tale.",
+    "partner": "Barton Village BIA",
+    "link": "https://www.instagram.com/p/DfanX5EiGI9/",
+    "map": "https://www.openstreetmap.org/node/906645964#map=19/43.260200/-79.850785",
+    "biaSponsored": true
+  },
+  {
+    "title": "Art Crawl at Ringside",
+    "date": "2026-11-13",
+    "time": "From 6 pm",
+    "location": "Ringside, James Street North",
+    "details": "Art Crawl night on James Street North, with a DJ and karaoke at Ringside and the last night of the season for Hot Dog Summers.",
+    "link": "https://www.instagram.com/p/DfU73gmvjuG/",
+    "nearby": true
   }
 ]
