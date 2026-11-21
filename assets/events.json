@@ -26,5 +26,59 @@
     "details": "Art Crawl night on James Street North, with a DJ and karaoke at Ringside and the last night of the season for Hot Dog Summers.",
     "link": "https://www.instagram.com/p/DfU73gmvjuG/",
     "nearby": true
+  },
+  {
+    "title": "Squiggle Holiday Market",
+    "date": "2026-11-22",
+    "time": "10 am to 4 pm",
+    "location": "Squiggle the Studio, 386 Barton Street East",
+    "details": "A holiday market at Squiggle the Studio. The first 10 guests get a free swag bag.",
+    "link": "https://www.instagram.com/squigglethestudio/",
+    "map": "https://www.openstreetmap.org/search?query=386%20Barton%20Street%20East%2C%20Hamilton"
+  },
+  {
+    "title": "Hamilton Craft Market",
+    "date": "2026-12-04",
+    "time": "6 pm to 9 pm",
+    "location": "Hamilton Craft Studios, 121 Princess Street",
+    "details": "A holiday craft market at Hamilton Craft Studios. The market also opens on Saturday, December 5.",
+    "link": "https://www.instagram.com/hamiltoncraftmarket/",
+    "map": "https://www.openstreetmap.org/search?query=121%20Princess%20Street%2C%20Hamilton"
+  },
+  {
+    "title": "Hamilton Craft Market",
+    "date": "2026-12-05",
+    "time": "11 am to 4 pm",
+    "location": "Hamilton Craft Studios, 121 Princess Street",
+    "details": "A holiday craft market at Hamilton Craft Studios. Second day of the market.",
+    "link": "https://www.instagram.com/hamiltoncraftmarket/",
+    "map": "https://www.openstreetmap.org/search?query=121%20Princess%20Street%2C%20Hamilton"
+  },
+  {
+    "title": "Santa's Little Helper",
+    "date": "2026-12-05",
+    "time": "12 pm to 4 pm",
+    "location": "Wildcat, 353 Barton Street East",
+    "details": "A holiday event at Wildcat.",
+    "link": "https://www.instagram.com/wildcat.hamont/",
+    "map": "https://www.openstreetmap.org/search?query=353%20Barton%20Street%20East%2C%20Hamilton"
+  },
+  {
+    "title": "Cotton Factory Holiday Open House",
+    "date": "2026-12-05",
+    "time": "12 pm to 5 pm",
+    "location": "The Cotton Factory, 270 Sherman Avenue North",
+    "details": "Holiday open house at the Cotton Factory. The open house also continues on Sunday, December 6.",
+    "link": "https://www.instagram.com/thecottonfactory/",
+    "map": "https://www.openstreetmap.org/search?query=270%20Sherman%20Avenue%20North%2C%20Hamilton"
+  },
+  {
+    "title": "Cotton Factory Holiday Open House",
+    "date": "2026-12-06",
+    "time": "12 pm to 5 pm",
+    "location": "The Cotton Factory, 270 Sherman Avenue North",
+    "details": "Holiday open house at the Cotton Factory. Second day of the open house.",
+    "link": "https://www.instagram.com/thecottonfactory/",
+    "map": "https://www.openstreetmap.org/search?query=270%20Sherman%20Avenue%20North%2C%20Hamilton"
   }
 ]
