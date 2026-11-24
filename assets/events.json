@@ -80,5 +80,23 @@
     "details": "Holiday open house at the Cotton Factory. Second day of the open house.",
     "link": "https://www.instagram.com/thecottonfactory/",
     "map": "https://www.openstreetmap.org/search?query=270%20Sherman%20Avenue%20North%2C%20Hamilton"
+  },
+  {
+    "title": "Holiday Hygiene and Toy Drive",
+    "date": "2026-12-18",
+    "time": "Drop off any time during business hours, November 20 to December 18",
+    "location": "Cradle and Kind Baby Boutique (formerly The Baby Depot), 669 Barton Street East, Unit H",
+    "details": "Cradle and Kind collects donations for local families. Bring unwrapped new toys, petroleum jelly, baby wash, baby lotion, baby shampoo, diaper cream or wipes. The last day to drop off is December 18.",
+    "link": "https://www.cradleandkind.org",
+    "map": "https://www.openstreetmap.org/search?query=669%20Barton%20Street%20East%2C%20Hamilton"
+  },
+  {
+    "title": "Daytime Christmas Rock at Wingporium",
+    "date": "2026-12-06",
+    "time": "2 pm to 5 pm",
+    "location": "Wingporium, 737 Barton Street East",
+    "details": "A live music event for kids, with music by Nate, Devon and Mark. Buy 2 pounds of wings and get a free kids meal. There is a toy drive for City Kidz and a draw for a Wingporium gift card.",
+    "map": "https://www.openstreetmap.org/search?query=737%20Barton%20Street%20East%2C%20Hamilton",
+    "nearby": true
   }
 ]
