@@ -98,5 +98,22 @@
     "details": "A live music event for kids, with music by Nate, Devon and Mark. Buy 2 pounds of wings and get a free kids meal. There is a toy drive for City Kidz and a draw for a Wingporium gift card.",
     "map": "https://www.openstreetmap.org/search?query=737%20Barton%20Street%20East%2C%20Hamilton",
     "nearby": true
+  },
+  {
+    "title": "Annual Free Christmas Dinner",
+    "date": "2026-12-05",
+    "time": "1 pm",
+    "location": "Christ's Voice of Restoration Ministries, 200 Sanford Avenue North",
+    "details": "Warm meals, gifts, live music and giveaways. For tickets, call 289-389-2308 or 289-775-2119.",
+    "link": "https://www.cvrministries.org/",
+    "map": "https://www.openstreetmap.org/search?query=200%20Sanford%20Avenue%20North%2C%20Hamilton"
+  },
+  {
+    "title": "Hamilton Stands with Ken",
+    "date": "2026-12-12",
+    "time": "10 am",
+    "location": "Hamilton General Hospital, Barton Street East and Victoria Avenue North",
+    "details": "A show of support for Capt. Kenneth Kunkel, a Canadian Armed Forces member and Cadet Officer who was injured in the line of duty. Meet at 10 am at the Tim Hortons at Barton Street and Ferguson Avenue (parking available), or at Victoria Avenue and Barton Street in front of the hospital. Bring signs of encouragement and flags for your Legion, organization or unit. There will be a Canadian flag to sign for Ken. Everyone is welcome. Questions: Greg Wilkinson, Stoney Creek Legion Service Officer, Wilkinson432@yahoo.ca.",
+    "map": "https://www.openstreetmap.org/search?query=Hamilton%20General%20Hospital%2C%20Hamilton"
   }
 ]
